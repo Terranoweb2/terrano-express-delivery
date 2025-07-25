@@ -70,8 +70,8 @@ Application de livraison express de cuisine fusion afro-italienne avec paiement 
 
 1. **Cloner le repository**
 ```bash
-git clone https://github.com/votre-username/terrano-express.git
-cd terrano-express
+git clone https://github.com/Terranoweb2/terrano-express-delivery.git
+cd terrano-express-delivery-delivery
 ```
 
 2. **Installer les dépendances**
@@ -191,7 +191,7 @@ bun run build
 
 ## 🐛 Signaler un Bug
 
-Utilisez les [GitHub Issues](https://github.com/votre-username/terrano-express/issues) pour signaler des bugs ou proposer des améliorations.
+Utilisez les [GitHub Issues](https://github.com/Terranoweb2/terrano-express-delivery/issues) pour signaler des bugs ou proposer des améliorations.
 
 ## 📄 Licence
 
