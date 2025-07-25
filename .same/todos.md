@@ -28,6 +28,13 @@
 - [x] Interface d'assignation des livraisons
 - [x] Analyses et rapports pour l'administration
 
+## 🚀 NOUVELLE TÂCHE: Enregistrement GitHub
+- [ ] Créer un repository GitHub pour Terrano Express
+- [ ] Ajouter tous les fichiers du projet
+- [ ] Créer un README détaillé
+- [ ] Faire le commit initial avec message descriptif
+- [ ] Configurer .gitignore approprié
+
 ## 🎯 Application prête pour les tests !
 
 **Comptes de démonstration disponibles :**
